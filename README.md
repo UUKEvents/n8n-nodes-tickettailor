@@ -2,7 +2,7 @@
 
 A custom n8n node for interacting with the [Ticket Tailor API](https://developers.tickettailor.com/). This node allows you to automate your event management, ticketing, and attendee data directly within your n8n workflows.
 
-![Ticket Tailor Logo](file:///c:/Users/jacob/Documents/n8n/n8n-nodes-tickettailor/icons/tt-logo.svg)
+![Ticket Tailor Logo](https://app.tickettailor.com/assets/dashboard/img/tt-logo.svg)
 
 ## Features
 
